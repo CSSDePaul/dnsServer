@@ -1,1 +1,1 @@
-Something mediocre
+DNS Server built in Python
